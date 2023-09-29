@@ -16,7 +16,7 @@ Reanalysis-Based Global Tropical Cyclone Tracks Dataset for the Twentieth Centur
   - Location: [data/RGTracks-20C_OWZ_1850-2014.csv](https://)
   - Temporal coverage: 1850–2014
 - Tropical cyclones extracted by the UZ tracker
-  - Location: [data/RGTracks-20C_UZ_1850-2014.csv](https://)
+  - Location: [data/RGTracks-20C_UZ_1850-2014.csv](https://github.com/jeremychleung/RGTracks-20C/blob/main/data/RGTracks-20C_UZ_1850-2014.csv)
   - Temporal coverage: 1850–2014
 <br />
 
