@@ -1,6 +1,9 @@
 <!-- # Reanalysis-Based Global Tropical Cyclone Tracks Dataset for the Twentieth Century (RGTracks-20C) -->
 Reanalysis-Based Global Tropical Cyclone Tracks Dataset for the Twentieth Century (RGTracks-20C)
 =====
+[![DOI](https://zenodo.org/badge/698311843.svg)](https://zenodo.org/badge/latestdoi/698311843)<br />
+This repository contains the Reanalysis-Based Global Tropical Cyclone Tracks Dataset for the Twentieth Century (RGTracks-20C).
+<br /> <br />
 
 **About the RGTracks-20C**
 -----
@@ -45,7 +48,7 @@ Reanalysis-Based Global Tropical Cyclone Tracks Dataset for the Twentieth Centur
 -----
 If you use the RGTracks-20C in a publication or for any other purposes, please cite 
 - Ye G., Leung J.C.H., Dong W., Xu J., Li W., Qian W., Zhang B. A Reanalysis-Based Global Tropical Cyclone Tracks Dataset for the Twentieth Century. Scientific Data (under review). <!-- https://doi.org/10.1007/s00382-022-06142-2 -->
-- Zenodo archive: <!-- https://doi.org/10.5281/zenodo.6331379 -->
+- Zenodo archive: https://doi.org/10.5281/zenodo.8410597
 <br /> 
 
 **References**
