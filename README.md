@@ -60,5 +60,5 @@ If you use the RGTracks-20C in a publication or for any other purposes, please c
 
 **Contact**
 -----
-If you have any questions about the data, feel free to contact Ms. Guiling Ye (*email address*) and Dr. Jeremy Leung (chleung@pku.edu.cn or liangzx@gd121.cn).
+If you have any questions about the data, feel free to contact Ms. Guiling Ye (*yegling3@mail2.sys.edu.cn*) and Dr. Jeremy Leung (chleung@pku.edu.cn or liangzx@gd121.cn).
 <br /> 
