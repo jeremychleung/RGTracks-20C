@@ -10,16 +10,16 @@ This repository contains the Reanalysis-Based Global Tropical Cyclone Tracks Dat
 - The RGTracks-20C is the first publicly available century-long reanalysis-based TC track dataset.
 - The RGTracks-20C provides a long-term historical proxy record of global tropical cyclones spanning from 1850 to 2014, including their locations, timings, and intensities information.
 - The current version of the dataset is constructed from the NOAA/CIRES/DOE 20th Century Reanalysis ([20CRv3](https://www.psl.noaa.gov/data/gridded/data.20thC_ReanV3.html)) based on two tropical cyclone tracking algorithms ([UZ](https://) and [OWZ](https://) trackers).
-- Please refer to [Ye et al. (2023, under review)](https://) for more detail about the calculation procedure and the theory behind it.
+- Please refer to [Ye et al. (2024, under review)](https://) for more detail about the calculation procedure and the theory behind it.
  <br /> 
  
 **Files**
 -----
 - Tropical cyclones extracted by the OWZ tracker
-  - Location: [data/RGTracks-20Cv1_OWZ_1850-2014.csv](https://github.com/jeremychleung/RGTracks-20C/blob/main/data/RGTracks-20Cv1_OWZ_1850-2014.csv)
+  - Location: [data/v1.0/RGTracks-20Cv1_OWZ_1850-2014.csv](https://github.com/jeremychleung/RGTracks-20C/blob/main/data/v1.0/1850-2014_OWZ_RGTracks-20C_v1.csv)
   - Temporal coverage: 1850–2014
 - Tropical cyclones extracted by the UZ tracker
-  - Location: [data/RGTracks-20Cv1_UZ_1850-2014.csv](https://github.com/jeremychleung/RGTracks-20C/blob/main/data/RGTracks-20Cv1_UZ_1850-2014.csv)
+  - Location: [data/v1.0/RGTracks-20Cv1_UZ_1850-2014.csv](https://github.com/jeremychleung/RGTracks-20C/blob/main/data/v1.0/1850-2014_UZ_RGTracks-20C_v1.csv)
   - Temporal coverage: 1850–2014
 <br />
 
@@ -35,13 +35,13 @@ This repository contains the Reanalysis-Based Global Tropical Cyclone Tracks Dat
   - _hour_: Hour (in UTC) when the TC occurs. All points are provided at 6 hour intervals.
   - _lon_: Longtiude of the TC position (unit: deg east)
   - _lat_: Latitude of the TC position (unit: deg north)
-  - _slp_: Minimum sea level pressure (unit: hPa or mb)
-  - _wind10_: Maximum 10-m wind speed (unit: m/s)
+  - _SLPmin_: Minimum sea level pressure (unit: hPa or mb)
+  - _WINDmax_: Maximum 10-m wind speed (unit: m/s)
   - _hemisphere_: _N_ refers to Northern Hemisphere; _S_ refers to Southern Hemisphere
   - _basin_: Basins include: North Atlantic (_NATL_), Eastern North Pacific (_ENP_), Western North Pacific (_WNP_), North Indian (_NI_), South Indian (_SI_), Southern Pacific (_SP_), South Atlantic (_SA_)
   - _season_: TC season that the TC occurs (unit: year)
-  - _slp_c_: Minimum sea level pressure after bias correction (unit: hPa or mb)
-  - _wind10_c_: Maximum 10-m wind speed after bias correction (unit: m/s)
+  - _SLPmin_c_: Minimum sea level pressure after bias correction (unit: hPa or mb)
+  - _WINDmax_c_: Maximum 10-m wind speed after bias correction (unit: m/s)
 <br />
 
 **Citation**
